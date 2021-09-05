@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">cara3</string>
+    <string name="provide_description">Please describe this photo</string>
+    <string name="main_image_desc">the last photo you took</string>
+</resources>
